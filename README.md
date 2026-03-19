@@ -1,6 +1,15 @@
 # 🏥 Sistema de Gerenciamento de Pacientes
 
-Projeto desenvolvido em linguagem C para gerenciamento de pacientes com prioridade.
+## 🎓 Sobre o Projeto
+
+Este projeto foi desenvolvido como atividade acadêmica da disciplina de Fundamentos de Programação (FUP), com o objetivo de aplicar conceitos fundamentais da linguagem C, como:
+
+- Estruturas de dados
+- Alocação dinâmica de memória
+- Manipulação de arquivos
+- Organização e ordenação de dados
+
+O sistema simula o gerenciamento de pacientes em uma unidade de saúde, priorizando atendimentos com base em critérios definidos (pontuação e idade).
 
 ## 📌 Funcionalidades
 - Cadastro de pacientes
