@@ -17,8 +17,3 @@ O sistema simula o gerenciamento de pacientes em uma unidade de saúde, prioriza
 - Edição de pacientes por ID
 - Remoção de pacientes
 - Salvamento em arquivo
-
-## 🛠 Tecnologias
-- Linguagem C
-- Alocação dinâmica de memória
-- Manipulação de arquivos
